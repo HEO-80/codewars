@@ -1,0 +1,2 @@
+# codewars
+exsercise codewars
